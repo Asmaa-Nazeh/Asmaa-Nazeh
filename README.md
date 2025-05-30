@@ -23,8 +23,9 @@
 </p>
 
 <h3 align="left">💎 About Me:</h3>
-<p align="left">🔹 AI Engineer & Data Scientist – Skilled in building intelligent systems using Machine Learning, Deep Learning, and NLP.</p>
-<p align="left">🔹 Experienced in Python, C++, FastAPI, and data tools like Power BI and Tableau.</p>
+<p align="left">🔹 AI Engineer & Data Scientist – Building solutions using Machine Learning, Deep Learning, NLP, and Computer Vision.</p>
+<p align="left">🔹 Tools & Programming – Experienced with Python, C++, SQL, Docker, and popular libraries & frameworks.</p>
+<p align="left">🔹 Data Analysis & Visualization – Proficient in Power BI, Tableau, and data storytelling.</p>
 <p align="left">🔹 Passionate about AI, language tech, and automation. Always exploring new ideas and techniques. ✨</p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
@@ -34,8 +35,6 @@
 
 <p align="left" style="display:flex; gap:15px; flex-wrap: wrap; align-items:center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/OpenCV_logo_with_text.svg/1200px-OpenCV_logo_with_text.svg.png" alt="OpenCV" width="70" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Microsoft_Power_BI_Logo.svg/1200px-Microsoft_Power_BI_Logo.svg.png" alt="Power BI" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" />
