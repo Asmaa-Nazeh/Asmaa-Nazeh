@@ -10,12 +10,15 @@
   <img src="https://komarev.com/ghpvc/?username=Asmaa-Nazeh&color=blue" height="30" alt="Profile views"/>
 </p>
 
-<p align="center" style="display:flex; justify-content:center; gap:40px;">
+<p align="center"> <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/asmaa-nazeh">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="70" alt="LinkedIn" />
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="70" alt="LinkedIn"/>
   </a>
+</p>
+
+<p align="center"> <!-- Kaggle -->
   <a href="https://www.kaggle.com/asmaanazeh">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Kaggle_logo.png" height="70" alt="Kaggle"/>
+    <img src="https://www.kaggle.com/static/images/site-logo.svg" height="70" alt="Kaggle"/>
   </a>
 </p>
 
@@ -31,8 +34,8 @@
 
 <p align="left" style="display:flex; gap:15px; flex-wrap: wrap; align-items:center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="70" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/OpenCV_logo_with_text.svg/1200px-OpenCV_logo_with_text.svg.png" alt="OpenCV" width="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Microsoft_Power_BI_Logo.svg/1200px-Microsoft_Power_BI_Logo.svg.png" alt="Power BI" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" />
